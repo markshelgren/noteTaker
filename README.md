@@ -22,7 +22,9 @@ The criteria for a successful project are below:
 
 ## Getting Started
 
-Below is the link to the project repository, a link to the deployed application on Heroku, and a link to the video of how the application works.
+![Web Page](sample.png)
+
+Below is a print screen from the application, the link to the project repository and a link to the deployed application on Heroku.
 
 https://github.com/markshelgren/noteTaker
 
@@ -54,19 +56,10 @@ This program can be viewed and deployed using most internet browsers via the lin
 - [GoogleChrome](https://www.google.com/chrome/) - Used for inspector tool and validating the program during development.
 - [NodePackageManager](https://www.npmjs.com/) - Used to install node modules/dependencies
 - [Postman](https://www.getpostman.com/) - A collaboration platform for API development.
-<!-- ## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. -->
 
 ## Authors
 
 - **Mark Shelgren** - [markshelgren](https://github.com/markshelgren)
-
-<!-- See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. -->
-
-<!-- ## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details -->
 
 ## Acknowledgments
 
