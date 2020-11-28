@@ -26,9 +26,7 @@ Below is the link to the project repository, a link to the deployed application 
 
 https://github.com/markshelgren/noteTaker
 
-https://shrouded-chamber-01100.herokuapp.com/
-
-https://youtu.be/wUAif9AWBDU
+https://mysterious-retreat-65224.herokuapp.com/
 
 ### Development
 
@@ -36,7 +34,7 @@ Below are the steps I took to create the application as it is so far. The most d
 
 1. Created and linked the initial files (JS files, HTML files, JSON files).
 
-2. Downloaded all dependecies using npm.
+2. Downloaded all dependencies using npm.
 
 3. Created all routes and verified them with small tests using Postman.
 
@@ -53,11 +51,9 @@ This program can be viewed and deployed using most internet browsers via the lin
 ## Built With
 
 - [VSCode](https://code.visualstudio.com/) - The platform I used for developing this project.
-- [MDN](https://developer.mozilla.org/en-US/) - Used as a reference tool.
 - [GoogleChrome](https://www.google.com/chrome/) - Used for inspector tool and validating the program during development.
 - [NodePackageManager](https://www.npmjs.com/) - Used to install node modules/dependencies
 - [Postman](https://www.getpostman.com/) - A collaboration platform for API development.
-- [YouTube](https://youtube.com) - Used to publish the video of the CLI which can be found in the "Getting Started" section.
 <!-- ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. -->
@@ -74,7 +70,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- The advisors, instructors, and TAs at the Coding Bootcamp at the University of Texas at Austin
-- Tutoring staff at Trilogy (Brittany and Michelle, thanks for the hack-a-thon and one-on-one support)
-- Fellow classmates at the Coding Bootcamp at UT-Austin
+- The advisors, instructors, and TAs at the Coding Bootcamp at the University of California, Irvine
+- Fellow classmates at the Coding Bootcamp at UC Irvine
 - Friends in the industry
