@@ -22,9 +22,9 @@ The criteria for a successful project are below:
 
 ## Getting Started
 
-![Web Page](sample.png)
-
 Below is a print screen from the application, the link to the project repository and a link to the deployed application on Heroku.
+
+![Web Page](sample.png)
 
 https://github.com/markshelgren/noteTaker
 
